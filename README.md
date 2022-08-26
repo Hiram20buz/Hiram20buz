@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ![](https://i1.sndcdn.com/artworks-000141789905-tibdkm-t500x500.jpg)
+![image](https://user-images.githubusercontent.com/112133798/186792228-e065ade5-1dc0-4334-a93f-d0c2eacdc99f.png)
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Hiram20buz: Logo and Graphics Generator" border="0" /></a>
 
 
 ![](GHLogoTMP.png)
