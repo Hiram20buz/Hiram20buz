@@ -70,7 +70,7 @@ Numero de control: 20211847.
 Nombre del maestro: RENE SOLIS REYES.
 
 
-Materia: Lenguajez de Interfaz.
+Materia: Sistemas programables.
 
 
 Herramientas para clases 
