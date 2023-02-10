@@ -53,17 +53,17 @@ Here are some ideas to get you started:
 
 # :bust_in_silhouette: Información # 
                                            
-Nombre del alumno: Gantes Rivero Maria Guadalupe.
 
 
-Numero de control: 17210562.
+
+Numero de control: 20211847.
 
 
 ---------------------------------------------------------
 | *Lunes* | *Martes* | *Miercoles* | *Jueves* |
 |:----------:|-----------|:-------------:|:----------:|
 |    9305    |    LCLC   |      9305     |    LCLB    |
-|    16/17   |   16/17   |     16/17     |    16/17   |
+|    17/18   |   17/18   |     17/18     |    17/18   |
   
   
 
