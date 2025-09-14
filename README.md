@@ -1,91 +1,45 @@
-# 🐺
+# 👋 Hi, I’m Ricardo Santiago
 
+🎓 **Computer Systems Engineer** | 📊 **Data Scientist @ ITJ Labs** | 🔬 **AI & Quantum Computing Enthusiast**  
 
-![image](https://user-images.githubusercontent.com/112133798/186792228-e065ade5-1dc0-4334-a93f-d0c2eacdc99f.png)
+## 📖 About Me  
+I earned my **degree in Computer Systems Engineering** from *Tecnológico Nacional de México – Instituto Tecnológico de Tijuana (ITT - TecNM)* in 2024, and I’m currently pursuing a **Master’s in Engineering Sciences** at the same institution.  
 
+My academic and professional journey bridges **computer science, mathematics, physics, AI, and quantum computing**, with the goal of applying cutting-edge research to real-world problems.  
 
-"I was ashamed of myself when I realized that life was a masquerade party and I attended it with my true face" - Franz Kafka.
+## 🏆 Highlights  
+- 🧮 Competed in the **National Physics Olympiad (ONF)** (2019)  
+  [[Results]](https://smf.mx/programas/olimpiada-nacional-de-fisica/resultados-onf-2019/) · [[Certificate]](https://drive.google.com/file/d/1OgZ0fkUbRoeafk9XuO3NhryNl4aSGUbb/view)
+- 👩‍💻 Participated in the **[Womanium Quantum Workshop](https://youtu.be/UOsoAQIjyio?si=O5_4V_058RLKfMV-&t=7649)** (2024)
+- 🤖 Presented research at **NEO 2024** on *“Multiclass Evaluation of Vision Transformers for Industrial Welding Defect Detection”*  
+  [[Paper]](https://www.mdpi.com/2297-8747/30/2/24) · [[Handbook]](https://neo.cinvestav.mx/NEO2024/Documents/NEO2024HandBook.pdf)
+- 🔬 Attended the **[Seminar on Artificial Intelligence and Quantum Computing](https://www.youtube.com/live/3Y85HQK902E?si=EbwPZj6qiJDMHEom&t=12142)** (2024)
+- 🇺🇸 Summer School on **[Numerical Methods in Quantum Information Science](https://www.linkedin.com/posts/ricardo-santiago-764718264_im-excited-to-share-that-ive-just-completed-activity-7353951483723145216-4WZa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDj3zwBGfA2qzBy21vT_v3rXA5PDqgja_w)**, *UMass Amherst* (2025)  
+- 🌎 Attended **[SPIE Optics + Photonics](https://www.linkedin.com/posts/ricardo-santiago-764718264_spie-optics-photonics-2025-excited-to-activity-7359634819422605313-WS1z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDj3zwBGfA2qzBy21vT_v3rXA5PDqgja_w)** in San Diego, California (2025)  
 
+## 💡 Research & Professional Interests  
+- Artificial Intelligence & Machine Learning (Computer Vision, NLP, FER)  
+- Quantum Computing & Quantum Machine Learning  
+- Mathematics & Physics for Computational Sciences  
+- Data Science & Applied Research for Industry Challenges  
 
-![](CHAOS.jpg) ![image](https://scilogs.spektrum.de/hlf/files/Screen-Shot-2018-09-23-at-09.37.51.png)
+## 🧑‍💻 Tech & Tools  
+- **Languages**: Python, Java, SQL  
+- **AI/ML**: PyTorch, Hugging Face, Transformers, Scikit-learn  
+- **Data Science**: Pandas, NumPy, spaCy, BM25  
+- **MLOps**: MLflow, Docker, GitHub Actions  
+- **Backend**: FastAPI, Flask  
 
+## 📚 Publications
+- **"Multiclass Evaluation of Vision Transformers for Industrial Welding Defect Detection"**  
+  *Mathematical and Computational Applications*, Vol. 30, Issue 2, Article 24 (2025)  
+  [Read the full paper](https://www.mdpi.com/2297-8747/30/2/24)
 
+## 🌍 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-santiago-764718264/)  
+- 📧 [Email](mailto:ricardosantiago1350@gmail.com)  
+- 🧑‍🔬 [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0008-9493-3501)
 
-# Welcome
+---
 
-
-### Memento mori
-
-
-
-
-- Physics 
-- Math
-- Computer systems
-- Philosophy
-
-Ing en sistemas computacionales
-
-Interesado en toda ciencia!!
-
-
-
-<!--
-**Hiram20buz/Hiram20buz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-  
-
- 
-
-# :bust_in_silhouette: Información # 
-                                           
-
-
-
-Numero de control: 20211847.
-
-
----------------------------------------------------------
-| *Lunes* | *Martes* | *Miercoles* | *Jueves* |
-|:----------:|-----------|:-------------:|:----------:|
-|    9305    |    LCLC   |      9305     |    LCLB    |
-|    17/18   |   17/18   |     17/18     |    17/18   |
-  
-  
-
-Nombre del maestro: RENE SOLIS REYES.
-
-
-Materia: Sistemas programables.
-
-
-Herramientas para clases 
-- Arduino clasico
-- STM32
-- RaspberryPi 
-- kit de sensores y herramientas soldar
-
-
-        fn main() {
-            println!("Hello World!");
-        }
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+✨ _Thanks for visiting my GitHub! Feel free to check out my repositories and connect for collaboration in AI, quantum computing, or applied research._  
