@@ -84,10 +84,17 @@ My academic and professional journey bridges **computer science, mathematics, ph
 
 ## 🧑‍💻 Tech & Tools  
 - **Languages**: Python, Java, SQL  
-- **AI/ML**: PyTorch, Hugging Face, Kaggle, Transformers, Scikit-learn  
+- **AI/ML**: PyTorch, Hugging Face, Kaggle, Google Colab, Transformers, Scikit-learn  
 - **Data Science**: Pandas, NumPy, spaCy, BM25  
-- **MLOps**: MLflow, Docker, GitHub Actions  
+- **MLOps**: MLflow, Docker, GitHub Actions, GCP  
 - **Backend**: FastAPI, Flask  
+
+## 📖 Knowledge  
+- Computer Vision  
+- Natural Language Processing (NLP)  
+- Time Series Analysis  
+- Data Augmentation & Balancing
+- Facial Emotion Recogniton (FER)  
 
 ## 📚 Publications
 - **"Multiclass Evaluation of Vision Transformers for Industrial Welding Defect Detection"**  
