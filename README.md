@@ -52,6 +52,14 @@ My academic and professional journey bridges **computer science, mathematics, ph
 
 ---
 
+## 📜 Certifications  
+
+- [**Introduction to Embedded Machine Learning**](https://coursera.org/share/157d76d0c790026ac2a6ae43a9ea6301) – Coursera  
+- [**Computer Vision with Embedded Machine Learning**](https://coursera.org/share/ab7b2f0caddbdd802105de6b620d33cd) – Coursera  
+- [**IBM Data Science**](https://coursera.org/share/b25b267903636d0b27e30b6c40818fec) – Coursera  
+
+---
+
 ## 💡 Research & Professional Interests  
 - Artificial Intelligence & Machine Learning (Computer Vision, NLP, FER)  
 - Quantum Computing & Quantum Machine Learning  
