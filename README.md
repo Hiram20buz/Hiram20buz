@@ -60,6 +60,21 @@ My academic and professional journey bridges **computer science, mathematics, ph
 
 ---
 
+## 🚀 Projects  
+
+- 🔧 **TIG Welding Defect Detection** – Vision Transformer–based classification of welding defects.  
+- 🎙️ **Voice Gender Detection** – ML and DL approach to gender recognition from audio.  
+- 📊 **Synthetic Tabular Data Generation** – Data augmentation and benchmarking experiments using GANs.
+- ⚙️ **Optuna Optimization for Tabular Data** – Hyperparameter tuning for improved ML and DL performance.  
+- ⚖️ **Data Balancing Techniques** – Applying oversampling, undersampling, and hybrid methods to imbalanced datasets.  
+- 📝 **OCR Tool** – Custom NER + OCR pipeline for extracting structured information from documents.  
+- ⏳ **Time Series Prediction** – Forecasting using machine learning and deep learning methods.  
+- 😊 **NAS for Facial Emotion Recognition** – Automated architecture search for optimized FER systems.  
+- 📑 **Document Classification** – NLP models for multi-class text classification tasks.  
+- 🎭 **CIDAUT AI Fake Scene Classification 2024** – Contributed to AI-based fake scene recognition challenge.  
+
+---
+
 ## 💡 Research & Professional Interests  
 - Artificial Intelligence & Machine Learning (Computer Vision, NLP, FER)  
 - Quantum Computing & Quantum Machine Learning  
