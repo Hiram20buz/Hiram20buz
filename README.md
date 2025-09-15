@@ -72,6 +72,7 @@ My academic and professional journey bridges **computer science, mathematics, ph
 - 😊 **NAS for Facial Emotion Recognition** – Automated architecture search for optimized FER systems.  
 - 📑 **Document Classification** – NLP models for multi-class text classification tasks.  
 - 🎭 **CIDAUT AI Fake Scene Classification 2024** – Contributed to AI-based fake scene recognition challenge.  
+- 🤖 **RAG Pipeline with GCP Deployment** – Built a Retrieval-Augmented Generation pipeline with vector search, metadata extraction, and agent demos, fully deployed on Google Cloud.  
 
 ---
 
