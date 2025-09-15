@@ -68,7 +68,7 @@ My academic and professional journey bridges **computer science, mathematics, ph
 
 ## 🧑‍💻 Tech & Tools  
 - **Languages**: Python, Java, SQL  
-- **AI/ML**: PyTorch, Hugging Face, Transformers, Scikit-learn  
+- **AI/ML**: PyTorch, Hugging Face, Kaggle, Transformers, Scikit-learn  
 - **Data Science**: Pandas, NumPy, spaCy, BM25  
 - **MLOps**: MLflow, Docker, GitHub Actions  
 - **Backend**: FastAPI, Flask  
