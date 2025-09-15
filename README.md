@@ -22,17 +22,33 @@ My academic and professional journey bridges **computer science, mathematics, ph
 ### **ITJ**  
 **Data Scientist I**  
 📍 Tijuana, Baja California, México  
-📆 Apr 2024 – Present · 1 year 6 months  
+📆 Apr 2024 – Present  
 
 - Working on data science and machine learning solutions to drive innovation.  
 - Focus on applied AI, automation, and real-world impact.  
 
 **Automation Tester (Dexcom Project)**  
 📍 ITJ, Tijuana, Baja California, México  
-📆 May 2023 – Apr 2024 · 1 year  
+📆 May 2023 – Apr 2024  
 
 - Developed and executed automated testing frameworks for medical device software.  
 - Ensured high-quality standards and improved testing efficiency.  
+
+---
+
+## 🎓 Education  
+
+**Instituto Tecnológico de Tijuana**  
+📖 *Master of Science in Engineering – Artificial Intelligence*  
+📆 2025 – 2027  
+
+**Instituto Tecnológico de Tijuana**  
+📖 *Bachelor of Engineering – Computer Systems Engineering*  
+📆 2020 – 2024  
+
+**Preparatoria Federal Lázaro Cárdenas**  
+📖 *Electronics*  
+📆 2017 – 2020  
 
 ---
 
