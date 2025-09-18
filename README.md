@@ -101,6 +101,11 @@ My academic and professional journey bridges **computer science, mathematics, ph
   *Mathematical and Computational Applications*, Vol. 30, Issue 2, Article 24 (2025)  
   [Read the full paper](https://www.mdpi.com/2297-8747/30/2/24)
 
+- **"Embedded Vision Transformers for Industrial Welding Defect Detection"**  
+  Ricardo Rioda Santiago, Antonio Contreras Ortiz, Miguel Lopez-Montiel, Victor H. Diaz-Ramirez  
+  *Proc. SPIE 13604, Optics and Photonics for Information Processing XIX*, 136040P (16 September 2025)  
+  [Read the full paper](https://doi.org/10.1117/12.3063965)
+
 ## 🌍 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-santiago-764718264/)  
 - 📧 [Email](mailto:ricardosantiago1350@gmail.com)  
