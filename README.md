@@ -112,6 +112,13 @@ My academic and professional journey bridges **computer science, mathematics, ph
   *Proc. SPIE 13604, Optics and Photonics for Information Processing XIX*, 136040P (16 September 2025)  
   [Read the full paper](https://doi.org/10.1117/12.3063965)
 
+- **"Benchmarking ML, DL, and Transformer Models for Document Classification"**  
+  Ricardo Rioda Santiago, Antonio Contreras Ortiz, Claudia Tona, Miguel Lopez-Montiel  
+  In *Artificial Intelligence and Quantum Computing: Early Innovations. Volume 1*  
+  Editors: Oscar Humberto Montiel Ross, Ulises Orozco-Rosas, Anabel Martínez-Vargas  
+  Springer Nature Switzerland, Cham, pp. 347–373 (2025)  
+  [Read the chapter](https://doi.org/10.1007/978-3-031-85614-3_18)
+
 ## 🌍 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-santiago-764718264/)  
 - 📧 [Email](mailto:ricardosantiago1350@gmail.com)  
