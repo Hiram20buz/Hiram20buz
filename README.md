@@ -13,9 +13,12 @@ My academic and professional journey bridges **computer science, mathematics, ph
 - 👩‍💻 Participated in the **[Womanium Quantum Workshop](https://youtu.be/UOsoAQIjyio?si=O5_4V_058RLKfMV-&t=7649)** (2024)
 - 🤖 Presented research at **NEO 2024** on *“Multiclass Evaluation of Vision Transformers for Industrial Welding Defect Detection”*  
   [[Paper]](https://www.mdpi.com/2297-8747/30/2/24) · [[Handbook]](https://neo.cinvestav.mx/NEO2024/Documents/NEO2024HandBook.pdf)
-- 🔬 Attended the **[Seminar on Artificial Intelligence and Quantum Computing](https://www.youtube.com/live/3Y85HQK902E?si=EbwPZj6qiJDMHEom&t=12142)** (2024)
+- 🔬 Attended the **[Seminar on Artificial Intelligence and Quantum Computing](https://www.youtube.com/live/3Y85HQK902E?si=EbwPZj6qiJDMHEom&t=12142)** (2024) 
+  [[Paper]](https://doi.org/10.1007/978-3-031-85614-3_18)
 - 🇺🇸 Summer School on **[Numerical Methods in Quantum Information Science](https://www.linkedin.com/posts/ricardo-santiago-764718264_im-excited-to-share-that-ive-just-completed-activity-7353951483723145216-4WZa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDj3zwBGfA2qzBy21vT_v3rXA5PDqgja_w)**, *UMass Amherst* (2025)  
 - 🌎 Attended **[SPIE Optics + Photonics](https://www.linkedin.com/posts/ricardo-santiago-764718264_spie-optics-photonics-2025-excited-to-activity-7359634819422605313-WS1z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDj3zwBGfA2qzBy21vT_v3rXA5PDqgja_w)** in San Diego, California (2025) [[Paper]](https://doi.org/10.1117/12.3063965)
+- 🤖 Presented research at **NEO 2025** on *“Neural Architecture Search with CMA-ES for Facial Emotion Recognition”*  
+  [[Handbook]](https://neo-workshop.com/Documents/NEO_book_of_abs_2025.pdf)
 
 ## 💼 Experience  
 
