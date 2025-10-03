@@ -19,6 +19,7 @@ My academic and professional journey bridges **computer science, mathematics, ph
 - 🌎 Attended **[SPIE Optics + Photonics](https://www.linkedin.com/posts/ricardo-santiago-764718264_spie-optics-photonics-2025-excited-to-activity-7359634819422605313-WS1z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDj3zwBGfA2qzBy21vT_v3rXA5PDqgja_w)** in San Diego, California (2025) [[Paper]](https://doi.org/10.1117/12.3063965)
 - 🤖 Presented research at **NEO 2025** on *“Neural Architecture Search with CMA-ES for Facial Emotion Recognition”*  
   [[Handbook]](https://neo-workshop.com/Documents/NEO_book_of_abs_2025.pdf)
+- 👩‍💻 Participated in the **[{Tech: Europe} Paris AI Hackathon](https://www.linkedin.com/posts/ricardo-santiago-764718264_techeurope-openai-beyond-activity-7378339279367933953-KGXa/)** (2025)
 
 ## 💼 Experience  
 
