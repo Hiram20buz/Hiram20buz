@@ -20,6 +20,8 @@ My academic and professional journey bridges **computer science, mathematics, ph
 - 🤖 Presented research at **NEO 2025** on *“Neural Architecture Search with CMA-ES for Facial Emotion Recognition”*  
   [[Handbook]](https://neo-workshop.com/Documents/NEO_book_of_abs_2025.pdf)
 - 👩‍💻 Participated in the **[{Tech: Europe} Paris AI Hackathon](https://www.linkedin.com/posts/ricardo-santiago-764718264_techeurope-openai-beyond-activity-7378339279367933953-KGXa/)** (2025)
+  [[GitHub Repo]](https://github.com/emilecohen/techeurope-hack-paris)
+
 
 ## 💼 Experience  
 
