@@ -21,7 +21,7 @@ My academic and professional journey bridges **computer science, mathematics, ph
   [[Handbook]](https://neo-workshop.com/Documents/NEO_book_of_abs_2025.pdf)
 - 👩‍💻 Participated in the **[{Tech: Europe} Paris AI Hackathon](https://www.linkedin.com/posts/ricardo-santiago-764718264_techeurope-openai-beyond-activity-7378339279367933953-KGXa/)** (2025)
   [[GitHub Repo]](https://github.com/emilecohen/techeurope-hack-paris)
-- 🔬 Attended the **[Seminar on Artificial Intelligence and Quantum Computing](https://www.youtube.com/live/JDbUBzJNBv0?si=6OGhsW4ePNT64KGw&t=18348)** (2025)
+- 🔬 Attended the **[Seminar on Artificial Intelligence and Quantum Computing](https://youtu.be/AnKRGhiF6PE?si=KLrdBARXXQvxdn0a)** (2025)
 
 
 ## 💼 Experience  
