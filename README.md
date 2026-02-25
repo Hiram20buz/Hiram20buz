@@ -24,6 +24,8 @@ My academic and professional journey bridges **computer science, mathematics, ph
 - 🔬 Attended the **[Seminar on Artificial Intelligence and Quantum Computing](https://youtu.be/AnKRGhiF6PE?si=KLrdBARXXQvxdn0a)** (2025)
 - 🎙️ Participated in the **[TAI Explorations: Building Real-Time Voice Agents with Agora](https://www.linkedin.com/posts/ricardo-santiago-764718264_agora-voiceagents-aiagents-activity-7419765355704692737-LZgq)** in Tokyo (2026)
   [[Demo Video]](https://www.linkedin.com/posts/ricardo-santiago-764718264_agora-voiceagents-aiagents-activity-7419765355704692737-LZgq)
+- 🚨 Participated in the **[AI x Risk Workshop](https://www.linkedin.com/posts/ricardo-santiago-764718264_aisecurity-agenticai-cyberrisk-activity-7420111550482493440-TV_q)** in Bunkyo City, Tokyo (2026)
+  [[Workshop Link]](https://www.linkedin.com/posts/ricardo-santiago-764718264_aisecurity-agenticai-cyberrisk-activity-7420111550482493440-TV_q)
 - 🤖 Participated in the **[Physical AI Hack 2026](https://www.linkedin.com/posts/ricardo-santiago-764718264_physicalai-lerobot-solotech-activity-7424119198395641856-sjo6)** in San Francisco (2026)
   [[Demo Video]](https://www.linkedin.com/posts/ricardo-santiago-764718264_physicalai-lerobot-solotech-activity-7424119198395641856-sjo6)
 
