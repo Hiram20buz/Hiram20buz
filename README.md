@@ -22,6 +22,8 @@ My academic and professional journey bridges **computer science, mathematics, ph
 - 👩‍💻 Participated in the **[{Tech: Europe} Paris AI Hackathon](https://www.linkedin.com/posts/ricardo-santiago-764718264_techeurope-openai-beyond-activity-7378339279367933953-KGXa/)** (2025)
   [[GitHub Repo]](https://github.com/emilecohen/techeurope-hack-paris)
 - 🔬 Attended the **[Seminar on Artificial Intelligence and Quantum Computing](https://youtu.be/AnKRGhiF6PE?si=KLrdBARXXQvxdn0a)** (2025)
+- 🎙️ Participated in the **[TAI Explorations: Building Real-Time Voice Agents with Agora](https://www.linkedin.com/posts/ricardo-santiago-764718264_agora-voiceagents-aiagents-activity-7419765355704692737-LZgq)** in Tokyo (2026)
+  [[Demo Video]](https://www.linkedin.com/posts/ricardo-santiago-764718264_agora-voiceagents-aiagents-activity-7419765355704692737-LZgq)
 - 🤖 Participated in the **[Physical AI Hack 2026](https://www.linkedin.com/posts/ricardo-santiago-764718264_physicalai-lerobot-solotech-activity-7424119198395641856-sjo6)** in San Francisco (2026)
   [[Demo Video]](https://www.linkedin.com/posts/ricardo-santiago-764718264_physicalai-lerobot-solotech-activity-7424119198395641856-sjo6)
 
