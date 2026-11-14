@@ -1,136 +1,160 @@
-# 👋 Hi, I’m Ricardo Santiago
+<h1 align="center">👋 Hi, I'm Ricardo Santiago</h1>
 
-🎓 **Computer Systems Engineer** | 📊 **Data Scientist @ ITJ Labs** | 🔬 **AI & Quantum Computing Enthusiast**  
+<p align="center">
+  <b>AI Engineer</b> · Agentic & Applied ML — from research to production
+</p>
 
-## 📖 About Me  
-I earned my **degree in Computer Systems Engineering** from *Tecnológico Nacional de México – Instituto Tecnológico de Tijuana (ITT - TecNM)* in 2024, and I’m currently pursuing a **Master’s in Engineering Sciences** at the same institution.  
-
-My academic and professional journey bridges **computer science, mathematics, physics, AI, and quantum computing**, with the goal of applying cutting-edge research to real-world problems.  
-
-## 🏆 Highlights  
-- 🧮 Competed in the **National Physics Olympiad (ONF)** (2019)  
-  [[Results]](https://smf.mx/programas/olimpiada-nacional-de-fisica/resultados-onf-2019/) · [[Certificate]](https://drive.google.com/file/d/1OgZ0fkUbRoeafk9XuO3NhryNl4aSGUbb/view)
-- 👩‍💻 Participated in the **[Womanium Quantum Workshop](https://youtu.be/UOsoAQIjyio?si=O5_4V_058RLKfMV-&t=7649)** (2024)
-- 🤖 Presented research at **NEO 2024** on *“Multiclass Evaluation of Vision Transformers for Industrial Welding Defect Detection”*  
-  [[Paper]](https://www.mdpi.com/2297-8747/30/2/24) · [[Handbook]](https://neo.cinvestav.mx/NEO2024/Documents/NEO2024HandBook.pdf)
-- 🔬 Attended the **[Seminar on Artificial Intelligence and Quantum Computing](https://www.youtube.com/live/3Y85HQK902E?si=EbwPZj6qiJDMHEom&t=12142)** (2024) 
-  [[Paper]](https://doi.org/10.1007/978-3-031-85614-3_18)
-- 🇺🇸 Summer School on **[Numerical Methods in Quantum Information Science](https://www.linkedin.com/posts/ricardo-santiago-764718264_im-excited-to-share-that-ive-just-completed-activity-7353951483723145216-4WZa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDj3zwBGfA2qzBy21vT_v3rXA5PDqgja_w)**, *UMass Amherst* (2025)  
-- 🌎 Attended **[SPIE Optics + Photonics](https://www.linkedin.com/posts/ricardo-santiago-764718264_spie-optics-photonics-2025-excited-to-activity-7359634819422605313-WS1z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDj3zwBGfA2qzBy21vT_v3rXA5PDqgja_w)** in San Diego, California (2025) [[Paper]](https://doi.org/10.1117/12.3063965)
-- 🤖 Presented research at **NEO 2025** on *“Neural Architecture Search with CMA-ES for Facial Emotion Recognition”*  
-  [[Handbook]](https://neo-workshop.com/Documents/NEO_book_of_abs_2025.pdf)
-- 👩‍💻 Participated in the **[{Tech: Europe} Paris AI Hackathon](https://www.linkedin.com/posts/ricardo-santiago-764718264_techeurope-openai-beyond-activity-7378339279367933953-KGXa/)** (2025)
-  [[GitHub Repo]](https://github.com/emilecohen/techeurope-hack-paris)
-- 🔬 Attended the **[Seminar on Artificial Intelligence and Quantum Computing](https://youtu.be/AnKRGhiF6PE?si=KLrdBARXXQvxdn0a)** (2025)
-- 🎙️ Participated in the **[TAI Explorations: Building Real-Time Voice Agents with Agora](https://www.linkedin.com/posts/ricardo-santiago-764718264_agora-voiceagents-aiagents-activity-7419765355704692737-LZgq)** in Tokyo (2026)
-  [[Demo Video]](https://www.linkedin.com/posts/ricardo-santiago-764718264_agora-voiceagents-aiagents-activity-7419765355704692737-LZgq)
-- 🚨 Participated in the **[AI x Risk Workshop](https://www.linkedin.com/posts/ricardo-santiago-764718264_aisecurity-agenticai-cyberrisk-activity-7420111550482493440-TV_q)** in Bunkyo City, Tokyo (2026)
-  [[Workshop Link]](https://www.linkedin.com/posts/ricardo-santiago-764718264_aisecurity-agenticai-cyberrisk-activity-7420111550482493440-TV_q)
-- 🤖 Participated in the **[Physical AI Hack 2026](https://www.linkedin.com/posts/ricardo-santiago-764718264_physicalai-lerobot-solotech-activity-7424119198395641856-sjo6)** in San Francisco (2026)
-  [[Demo Video]](https://www.linkedin.com/posts/ricardo-santiago-764718264_physicalai-lerobot-solotech-activity-7424119198395641856-sjo6)
-
-
-## 💼 Experience  
-
-### **ITJ**  
-**Data Scientist I**  
-📍 Tijuana, Baja California, México  
-📆 Apr 2024 – Present  
-
-- Working on data science and machine learning solutions to drive innovation.  
-- Focus on applied AI, automation, and real-world impact.  
-
-**Automation Tester (Dexcom Project)**  
-📍 ITJ, Tijuana, Baja California, México  
-📆 May 2023 – Apr 2024  
-
-- Developed and executed automated testing frameworks for medical device software.  
-- Ensured high-quality standards and improved testing efficiency.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricardo-santiago-764718264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ricardosantiago1350@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://orcid.org/0009-0008-9493-3501"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://www.researchgate.net/"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat" alt="Hugging Face"/></a>
+  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+</p>
 
 ---
 
-## 🎓 Education  
+## 🧠 About Me
 
-**Instituto Tecnológico de Tijuana**  
-📖 *Master of Science in Engineering – Artificial Intelligence*  
-📆 2025 – 2027  
+AI Engineer specializing in **applied and agentic machine learning systems, from research through deployment**. I build AI agents, chatbots, RAG pipelines, and REST APIs on **GCP Cloud Run** and **AWS Lambda**, plus enterprise document-search platforms, real-time voice agents, AI-driven test automation, and industrial computer vision for defect detection.
 
-**Instituto Tecnológico de Tijuana**  
-📖 *Bachelor of Engineering – Computer Systems Engineering*  
-📆 2020 – 2024  
+📍 Tijuana, Baja California, México
+🎓 M.Sc. in Engineering – Artificial Intelligence (in progress) @ Instituto Tecnológico de Tijuana
 
-**Preparatoria Federal Lázaro Cárdenas**  
-📖 *Electronics*  
-📆 2017 – 2020  
+**Open to:** AI Engineer · Data Engineer · Data Scientist · Research Scientist
 
 ---
 
-## 📜 Certifications  
+## 💼 Experience
 
-- [**Introduction to Embedded Machine Learning**](https://coursera.org/share/157d76d0c790026ac2a6ae43a9ea6301) – Coursera  
-- [**Computer Vision with Embedded Machine Learning**](https://coursera.org/share/ab7b2f0caddbdd802105de6b620d33cd) – Coursera  
-- [**IBM Data Science**](https://coursera.org/share/b25b267903636d0b27e30b6c40818fec) – Coursera  
+### The Food Maestro LLC *(Consulting)* — **AI Engineer**
+📆 May 2026 – Oct 2026 · 📍 Tijuana, BC, México
+*Building AI-powered voice and recipe-suggestion features for a chef-facing iOS app.*
+- Built a **voice agent in SwiftUI (Xcode)** for chefs, connected via **LiveKit** to a Python agent using the **OpenAI Realtime API** for real-time speech interaction.
+- Built a **recipe suggestion module** that filters recipes by constraints such as available time, taste preferences, and allergies.
+
+### ITJ — **AI Engineer**
+📆 Apr 2024 – Present · 📍 Tijuana, BC, México
+*Designing and deploying applied AI solutions across agentic systems, chatbots, automation, and ML workflows.*
+- Built a **Confluence document-search system (RAG)**: embeddings via **Vertex AI (Gemini)**, indexed in **Pinecone**, orchestrated with **LangChain**, deployed with **Docker on GCP Cloud Run**.
+- Built an **AI voice agent for candidate pre-screening & behavioral interviews** using **Gemini native-audio (speech-to-speech)**, with **LiveKit Cloud** handling WebRTC/media and GCP Cloud Run hosting frontend, token server, and agent worker.
+- Built a **serverless resume-processing pipeline on AWS Lambda** (containerized, async-triggered on S3 upload): uses Gemini/Vertex AI to extract structured candidate profiles, matches them against live Skills/Tags catalogs, and publishes to **GCP Pub/Sub**.
+- Built an **AI-driven test automation pipeline** with **LangGraph + Gemini** that turns **Jira** stories into reviewed test cases and approved cases into runnable **Playwright** code, with a label-driven human-approval gate at each step. Automated end-to-end via a Jira rule that POSTs to a GCP Cloud Run `qa-gate` service writing results back to Jira/Xray.
+- Implemented **predictive maintenance models** (LSTM, Prophet, XGBoost) for industrial sensor time-series forecasting.
+- Implemented a **Vision Transformer defect detection system (98–99% accuracy)** for industrial TIG welding inspection — published as a research paper.
+
+### ITJ — **Automation Tester** *(Dexcom Project)*
+📆 May 2023 – Apr 2024 · 📍 Tijuana, BC, México
+*Automated testing frameworks for medical device software.*
+- Built and maintained automated test suites with **Appium + TestNG** for a mobile Continuous Glucose Monitoring (CGM) app, covering critical patient-monitoring flows.
+- Led test automation from scratch for the **G6→G7 app migration**, achieving regression coverage across both versions.
+- Developed a **Python + TestRail API** script to pull failed runs, classify failure types, and generate summary metrics — reducing manual triage time.
 
 ---
 
-## 🚀 Projects  
+## 🛠️ Tech & Tools
 
-- 🔧 **TIG Welding Defect Detection** – Vision Transformer–based classification of welding defects.  
-- 🎙️ **Voice Gender Detection** – ML and DL approach to gender recognition from audio.  
-- 📊 **Synthetic Tabular Data Generation** – Data augmentation and benchmarking experiments using GANs.
-- ⚙️ **Optuna Optimization for Tabular Data** – Hyperparameter tuning for improved ML and DL performance.  
-- ⚖️ **Data Balancing Techniques** – Applying oversampling, undersampling, and hybrid methods to imbalanced datasets.  
-- 📝 **OCR Tool** – Custom NER + OCR pipeline for extracting structured information from documents.  
-- ⏳ **Time Series Prediction** – Forecasting using machine learning and deep learning methods.  
-- 😊 **NAS for Facial Emotion Recognition** – Automated architecture search for optimized FER systems.  
-- 📑 **Document Classification** – NLP models for multi-class text classification tasks.  
-- 🎭 **CIDAUT AI Fake Scene Classification 2024** – Contributed to AI-based fake scene recognition challenge.  
-- 🤖 **RAG Pipeline with GCP Deployment** – Built a Retrieval-Augmented Generation pipeline with vector search, metadata extraction, and agent demos, fully deployed on Google Cloud.  
+**Programming & AI/ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift/SwiftUI-F05138?style=flat&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Agentic & LLM Systems**
+OpenAI Realtime API · Gemini Native Audio (speech-to-speech) · Vertex AI · RAG Pipelines · Pinecone / Vector DBs · Embeddings · AI Agents · Voice AI Agents (LiveKit/WebRTC) · Tool Calling · MCP (Model Context Protocol) · LangGraph
+
+**Cloud & Deployment**
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<br/>GCP (Cloud Run, Vertex AI, Artifact Registry, Cloud Build, Pub/Sub) · AWS (Lambda, ECR, S3, Secrets Manager) · REST APIs · CI/CD & MLOps (Makefile-based deploy automation)
+
+**Computer Vision & Data Science**
+Vision Transformers (ViT, BEiT) · Image & Document Classification · Welding Defect Detection · Facial Emotion Recognition · Time Series Forecasting (LSTM, Prophet, XGBoost) · Neural Architecture Search · Model Benchmarking & Evaluation · Pandas · NumPy · spaCy
+
+**Test Automation & QA**
+Appium · TestNG · TestRail API · Playwright · Jira / Xray · AI-Assisted Test Case Generation · Regression & Mobile App Testing
 
 ---
 
-## 💡 Research & Professional Interests  
-- Artificial Intelligence & Machine Learning (Computer Vision, NLP, FER)  
-- Quantum Computing & Quantum Machine Learning  
-- Mathematics & Physics for Computational Sciences  
-- Data Science & Applied Research for Industry Challenges  
+## 📊 GitHub Stats
 
-## 🧑‍💻 Tech & Tools  
-- **Languages**: Python, Java, SQL  
-- **AI/ML**: PyTorch, Hugging Face, Kaggle, Google Colab, Transformers, Scikit-learn  
-- **Data Science**: Pandas, NumPy, spaCy, BM25  
-- **MLOps**: MLflow, Docker, GitHub Actions, GCP  
-- **Backend**: FastAPI, Flask  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hiram20buz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiram20buz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
-## 📖 Knowledge  
-- Computer Vision  
-- Natural Language Processing (NLP)  
-- Time Series Analysis  
-- Data Augmentation & Balancing
-- Facial Emotion Recogniton (FER)  
+---
+
+## 🚀 Projects
+
+- 🤖 **RAG Pipeline with GCP Deployment** — Retrieval-Augmented Generation with vector search, metadata extraction, and agent demos, fully deployed on Google Cloud.
+- 🔧 **TIG Welding Defect Detection** — Vision Transformer–based classification of industrial welding defects (98–99% accuracy).
+- 😊 **NAS for Facial Emotion Recognition** — Neural Architecture Search (CMA-ES) for optimized FER systems.
+- 📑 **Document Classification** — Benchmarking ML, DL, and transformer models for multi-class text/image classification.
+- ⏳ **Time Series Prediction** — Forecasting with LSTM, Prophet, and XGBoost.
+- 🎙️ **Voice Gender Detection** — ML/DL approach to gender recognition from audio.
+- 📝 **OCR + NER Tool** — Custom pipeline for extracting structured information from documents.
+- 📊 **Synthetic Tabular Data Generation** — Data augmentation and benchmarking (GANs), with Optuna tuning and class-balancing experiments.
+
+---
 
 ## 📚 Publications
-- **"Multiclass Evaluation of Vision Transformers for Industrial Welding Defect Detection"**  
-  *Mathematical and Computational Applications*, Vol. 30, Issue 2, Article 24 (2025)  
-  [Read the full paper](https://www.mdpi.com/2297-8747/30/2/24)
 
-- **"Embedded Vision Transformers for Industrial Welding Defect Detection"**  
-  Ricardo Rioda Santiago, Antonio Contreras Ortiz, Miguel Lopez-Montiel, Victor H. Diaz-Ramirez  
-  *Proc. SPIE 13604, Optics and Photonics for Information Processing XIX*, 136040P (16 September 2025)  
-  [Read the full paper](https://doi.org/10.1117/12.3063965)
+- **"Multiclass Evaluation of Vision Transformers for Industrial Welding Defect Detection"**
+  *Mathematical and Computational Applications*, Vol. 30, Issue 2, Article 24 (2025) — [Read →](https://www.mdpi.com/2297-8747/30/2/24)
 
-- **"Benchmarking ML, DL, and Transformer Models for Document Classification"**  
-  Ricardo Rioda Santiago, Antonio Contreras Ortiz, Claudia Tona, Miguel Lopez-Montiel  
-  In *Artificial Intelligence and Quantum Computing: Early Innovations. Volume 1*  
-  Editors: Oscar Humberto Montiel Ross, Ulises Orozco-Rosas, Anabel Martínez-Vargas  
-  Springer Nature Switzerland, Cham, pp. 347–373 (2025)  
-  [Read the chapter](https://doi.org/10.1007/978-3-031-85614-3_18)
+- **"Embedded Vision Transformers for Industrial Welding Defect Detection"**
+  R. R. Santiago, A. Contreras Ortiz, M. Lopez-Montiel, V. H. Diaz-Ramirez
+  *Proc. SPIE 13604, Optics and Photonics for Information Processing XIX*, 136040P (2025) — [Read →](https://doi.org/10.1117/12.3063965)
 
-## 🌍 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-santiago-764718264/)  
-- 📧 [Email](mailto:ricardosantiago1350@gmail.com)  
-- 🧑‍🔬 [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0008-9493-3501)
+- **"Benchmarking ML, DL, and Transformer Models for Document Classification"**
+  R. R. Santiago, A. Contreras Ortiz, C. Tona, M. Lopez-Montiel
+  *Artificial Intelligence and Quantum Computing: Early Innovations*, Vol. 1, pp. 347–373, Springer Nature (2025) — [Read →](https://doi.org/10.1007/978-3-031-85614-3_18)
 
 ---
 
-✨ _Thanks for visiting my GitHub! Feel free to check out my repositories and connect for collaboration in AI, quantum computing, or applied research._  
+## 🏆 Highlights
+
+- 🧮 **National Physics Olympiad (ONF)** — Honorable mention, ranked 38th nationally (2019) · [[Results]](https://smf.mx/programas/olimpiada-nacional-de-fisica/resultados-onf-2019/) · [[Certificate]](https://drive.google.com/file/d/1OgZ0fkUbRoeafk9XuO3NhryNl4aSGUbb/view)
+- 👩‍💻 **[Womanium Quantum Workshop](https://youtu.be/UOsoAQIjyio?si=O5_4V_058RLKfMV-&t=7649)** — ViT-with-quantum-layer project (2024)
+- 🤖 **NEO 2024** — Presented & published *"Multiclass Evaluation of Vision Transformers..."* · [[Paper]](https://www.mdpi.com/2297-8747/30/2/24)
+- 🔬 **[Seminar on AI and Quantum Computing](https://www.youtube.com/live/3Y85HQK902E?si=EbwPZj6qiJDMHEom&t=12142)** (2024) · [[Paper]](https://doi.org/10.1007/978-3-031-85614-3_18)
+- 🇺🇸 **[Summer School on Numerical Methods in Quantum Information Science](https://www.linkedin.com/posts/ricardo-santiago-764718264_im-excited-to-share-that-ive-just-completed-activity-7353951483723145216-4WZa)** — UMass Amherst (2025)
+- 🌎 **[SPIE Optics + Photonics](https://www.linkedin.com/posts/ricardo-santiago-764718264_spie-optics-photonics-2025-excited-to-activity-7359634819422605313-WS1z)** — San Diego, CA (2025) · [[Paper]](https://doi.org/10.1117/12.3063965)
+- 🤖 **NEO 2025** — Presented *"Neural Architecture Search with CMA-ES for Facial Emotion Recognition"* · [[Handbook]](https://neo-workshop.com/Documents/NEO_book_of_abs_2025.pdf)
+- 👩‍💻 **[{Tech: Europe} Paris AI Hackathon](https://www.linkedin.com/posts/ricardo-santiago-764718264_techeurope-openai-beyond-activity-7378339279367933953-KGXa/)** (2025) · [[Repo]](https://github.com/emilecohen/techeurope-hack-paris)
+- 🎙️ **[TAI Explorations: Real-Time Voice Agents with Agora](https://www.linkedin.com/posts/ricardo-santiago-764718264_agora-voiceagents-aiagents-activity-7419765355704692737-LZgq)** — Tokyo (2026)
+- 🤖 **[Physical AI Hack 2026](https://www.linkedin.com/posts/ricardo-santiago-764718264_physicalai-lerobot-solotech-activity-7424119198395641856-sjo6)** — San Francisco, CA (2026)
+
+---
+
+## 🎓 Education
+
+- **M.Sc. in Engineering – Artificial Intelligence** *(in progress)* — Instituto Tecnológico de Tijuana · 2025 – Present
+- **B.Eng. in Computer Systems Engineering** — Instituto Tecnológico de Tijuana · 2020 – 2024
+
+---
+
+## 📜 Certifications
+
+- 🅰️ **Claude Certified Architect – Foundations** — Anthropic (2026)
+- 🧱 **Databricks Certified Data Engineer Associate** — Databricks (2026)
+- 🔌 [**Introduction to Embedded Machine Learning**](https://coursera.org/share/157d76d0c790026ac2a6ae43a9ea6301) — Coursera (2025)
+- 👁️ [**Computer Vision with Embedded Machine Learning**](https://coursera.org/share/ab7b2f0caddbdd802105de6b620d33cd) — Coursera (2025)
+- 📊 [**IBM Data Science**](https://coursera.org/share/b25b267903636d0b27e30b6c40818fec) — Coursera (2025)
+
+---
+
+<p align="center">
+  <i>✨ Thanks for visiting! Open to collaboration in AI agents, applied ML, and research — feel free to connect.</i>
+</p>
