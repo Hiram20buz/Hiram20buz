@@ -8,10 +8,10 @@
   <a href="https://www.linkedin.com/in/ricardo-santiago-764718264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ricardosantiago1350@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://orcid.org/0009-0008-9493-3501"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-  <a href="https://www.researchgate.net/"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat" alt="Hugging Face"/></a>
-  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://scholar.google.com/citations?hl=es&user=rbWdn0MAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://www.researchgate.net/profile/Ricardo-Santiago-10"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+  <a href="https://huggingface.co/ricardoSLabs"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat" alt="Hugging Face"/></a>
+  <a href="https://www.kaggle.com/ricardorioda"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ AI Engineer specializing in **applied and agentic machine learning systems, from
 
 ## 💼 Experience
 
-### The Food Maestro LLC *(Consulting)* — **AI Engineer**
+### Consulting — **AI Engineer**
 📆 May 2026 – Oct 2026 · 📍 Tijuana, BC, México
 *Building AI-powered voice and recipe-suggestion features for a chef-facing iOS app.*
 - Built a **voice agent in SwiftUI (Xcode)** for chefs, connected via **LiveKit** to a Python agent using the **OpenAI Realtime API** for real-time speech interaction.
@@ -147,8 +147,8 @@ Appium · TestNG · TestRail API · Playwright · Jira / Xray · AI-Assisted Tes
 
 ## 📜 Certifications
 
-- 🅰️ **Claude Certified Architect – Foundations** — Anthropic (2026)
-- 🧱 **Databricks Certified Data Engineer Associate** — Databricks (2026)
+- 🅰️ [**Claude Certified Architect – Foundations**](https://www.credly.com/badges/044d708d-5b13-4dfc-9b65-59827ff9a611/linked_in_profile) — Anthropic (2026)
+- 🧱 [**Databricks Certified Data Engineer Associate**](https://credentials.databricks.com/fa93e950-7197-476c-b9a0-fc7eff646012) — Databricks (2026)
 - 🔌 [**Introduction to Embedded Machine Learning**](https://coursera.org/share/157d76d0c790026ac2a6ae43a9ea6301) — Coursera (2025)
 - 👁️ [**Computer Vision with Embedded Machine Learning**](https://coursera.org/share/ab7b2f0caddbdd802105de6b620d33cd) — Coursera (2025)
 - 📊 [**IBM Data Science**](https://coursera.org/share/b25b267903636d0b27e30b6c40818fec) — Coursera (2025)
