@@ -73,15 +73,6 @@ Appium · TestNG · TestRail API · Playwright · Jira / Xray · AI-Assisted Tes
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hiram20buz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiram20buz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ## 🚀 Projects
 
 - 🤖 **RAG Pipeline with GCP Deployment** — Retrieval-Augmented Generation with vector search, metadata extraction, and agent demos, fully deployed on Google Cloud.
