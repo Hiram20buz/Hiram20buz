@@ -57,26 +57,13 @@ AI Engineer specializing in **applied and agentic machine learning systems, from
 ## 🛠️ Tech & Tools
 
 **Programming & AI/ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift/SwiftUI-F05138?style=flat&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+Python · Java · Swift/SwiftUI · SQL · PyTorch · Transformers (Hugging Face) · scikit-learn · OpenCV · LangChain · FastAPI · Unsloth
 
 **Agentic & LLM Systems**
 OpenAI Realtime API · Gemini Native Audio (speech-to-speech) · Vertex AI · RAG Pipelines · Pinecone / Vector DBs · Embeddings · AI Agents · Voice AI Agents (LiveKit/WebRTC) · Tool Calling · MCP (Model Context Protocol) · LangGraph
 
 **Cloud & Deployment**
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-<br/>GCP (Cloud Run, Vertex AI, Artifact Registry, Cloud Build, Pub/Sub) · AWS (Lambda, ECR, S3, Secrets Manager) · REST APIs · CI/CD & MLOps (Makefile-based deploy automation)
+GCP (Cloud Run, Vertex AI, Artifact Registry, Cloud Build, Pub/Sub) · AWS (Lambda, ECR, S3, Secrets Manager) · Docker · Git · REST APIs · CI/CD & MLOps (Makefile-based deploy automation)
 
 **Computer Vision & Data Science**
 Vision Transformers (ViT, BEiT) · Image & Document Classification · Welding Defect Detection · Facial Emotion Recognition · Time Series Forecasting (LSTM, Prophet, XGBoost) · Neural Architecture Search · Model Benchmarking & Evaluation · Pandas · NumPy · spaCy
