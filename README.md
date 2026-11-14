@@ -73,6 +73,9 @@ Vision Transformers (ViT, BEiT) · Image & Document Classification · Welding De
 **Test Automation & QA**
 Appium · TestNG · TestRail API · Playwright · Jira / Xray · AI-Assisted Test Case Generation · Regression & Mobile App Testing
 
+**Languages**
+Spanish (Native) · English (Professional Working Proficiency)
+
 ---
 
 ## 🚀 Projects
