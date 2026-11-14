@@ -12,6 +12,8 @@
   <a href="https://www.researchgate.net/profile/Ricardo-Santiago-10"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
   <a href="https://huggingface.co/ricardoSLabs"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat" alt="Hugging Face"/></a>
   <a href="https://www.kaggle.com/ricardorioda"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://www.credly.com/users/ricardo-santiago.ee9ee74e/badges/credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white" alt="Credly"/></a>
+  <a href="https://www.credential.net/profile/ricardoriodasantiagosanchez748099/wallet"><img src="https://img.shields.io/badge/Credential.net-2E7D32?style=flat&logo=accredible&logoColor=white" alt="Credential.net"/></a>
 </p>
 
 ---
